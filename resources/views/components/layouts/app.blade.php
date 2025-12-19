@@ -17,7 +17,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm">
         <div class="container">
             <a class="navbar-brand fw-bold text-primary" href="#">
-                HTPBOOTCAMP
+                HTPBOOTCAMP25
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nav">
                 <span class="navbar-toggler-icon"></span>
